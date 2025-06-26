@@ -1,6 +1,6 @@
 # ✈️ Flight Delay Analysis & Prediction
 
-A comprehensive machine learning project focused on analyzing and predicting flight delays using historical airline and airport data. This project was developed as part of the **SocBiz Project (IITR)**
+A comprehensive machine learning project focused on analyzing and predicting flight delays using historical airline and airport data. This project was developed as part of the  **SocBiz Project (IITR)**.
 ---
 
 ## 🎯 Objective
